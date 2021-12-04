@@ -22,8 +22,7 @@
 ---------
 ## Languages and Tools:
 
-[![Total LuizAlexandre21's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAlexandre21&count_private=true&theme=algolia)](https://github.com/LuizAlexandre21/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlexandre21&theme=algolia&layout=compact)](https://github.com/LuizAlexandre21/github-readme-stats)
+[![Total LuizAlexandre21's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAlexandre21&count_private=true&theme=algolia)](https://github.com/LuizAlexandre21/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlexandre21&theme=algolia&layout=compact)](https://github.com/LuizAlexandre21/github-readme-stats)
 
 <code><img height= "20" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height= "20" src= "https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></code>
