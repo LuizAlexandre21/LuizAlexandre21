@@ -4,7 +4,7 @@
 
 💻: I'm Python Developer!
 
-🏠: I'm From Fortaleza - Brazil
+🏠: I'm From Brazil
 
 🎓: Graduated in economics from the Federal University of Ceará
 
