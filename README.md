@@ -12,7 +12,7 @@
 
 🎓: Specializing in Data Science at FBUni
 
-🏢: I'm working in Fundação de Previdência Social do Estado do Ceará
+🏢: I'm working at Fundação de Previdência Social do Estado do Ceará
 
 🔬: Research assistant at the Brazilian Federalism Observatory
 
