@@ -4,6 +4,8 @@
 
 💻: I'm Python Developer!
 
+💻: I'm Data Scientist!
+
 🏠: I'm From Brazil
 
 🎓: Graduated in economics from the Federal University of Ceará
